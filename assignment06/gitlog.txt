@@ -1,0 +1,77 @@
+commit cc06bf857434b536f3dc03d080e34f78bc26087d
+Author: Diana LIN <dlin12@linux.CS.McGill.CA>
+Date:   Wed Dec 6 18:55:36 2017 -0500
+
+    Version12: completely functional
+
+commit ede0d78355f21d5717205d095d7dfe2fdd11d698
+Author: Diana LIN <dlin12@linux.CS.McGill.CA>
+Date:   Wed Dec 6 17:43:52 2017 -0500
+
+    Version11: update after second round of debugging
+
+commit 73529a563203fd7ff7d0580d87fb5b3962d0f120
+Author: Diana LIN <dlin12@linux.CS.McGill.CA>
+Date:   Wed Dec 6 15:26:16 2017 -0500
+
+    Version10: update after first round of debugging
+
+commit bc7b81d8d553fdb9ac929c51c9aaefe080b80e42
+Author: Diana LIN <dlin12@linux.CS.McGill.CA>
+Date:   Wed Dec 6 01:08:34 2017 -0500
+
+    Version9: done for the night, continue tomorrow
+
+commit 39059d6426a94eb4f9959f7e2b7199116995e72b
+Author: Diana LIN <dlin12@linux.CS.McGill.CA>
+Date:   Wed Dec 6 00:16:01 2017 -0500
+
+    Version8: final version before debugging
+
+commit be1a3c8ba03b74ec577bc32db6e32f3eb922f53c
+Author: Diana LIN <dlin12@linux.CS.McGill.CA>
+Date:   Tue Dec 5 23:59:13 2017 -0500
+
+    Version7: fixed Producer.c bugs
+
+commit e5397c481ebb5b4f8a4880580b45a85096522554
+Author: Diana LIN <dlin12@linux.CS.McGill.CA>
+Date:   Tue Dec 5 23:48:03 2017 -0500
+
+    Version6: updated Main.c
+
+commit 3f05513f69987106ac46fa2281816e3f4ef66834
+Author: Diana LIN <dlin12@linux.CS.McGill.CA>
+Date:   Tue Dec 5 23:36:02 2017 -0500
+
+    version5: Added Producer.c from Isidora Duma
+
+commit 23adab7781e585e709b2041909204a7cfde4b41d
+Author: Diana LIN <dlin12@linux.CS.McGill.CA>
+Date:   Tue Dec 5 23:33:55 2017 -0500
+
+    version4: added fork.h with function prototypes
+
+commit 2f0196e4eedc3596a75eedab79b3a8b3f138c917
+Author: Diana LIN <dlin12@linux.CS.McGill.CA>
+Date:   Tue Dec 5 23:29:21 2017 -0500
+
+    version3
+
+commit d05628c038e9d55bc1328a5d91b5a82f6b5ec424
+Author: Diana LIN <dlin12@linux.CS.McGill.CA>
+Date:   Tue Dec 5 23:22:26 2017 -0500
+
+    version3
+
+commit e08dc2dc20cb2bee56b46ca95eaff6e53fef2d8c
+Author: Diana LIN <dlin12@linux.CS.McGill.CA>
+Date:   Tue Dec 5 23:16:08 2017 -0500
+
+    version2
+
+commit 1a60efe800e53dab246543fe609c758b88334730
+Author: Diana LIN <dlin12@linux.CS.McGill.CA>
+Date:   Tue Dec 5 21:57:02 2017 -0500
+
+    version1
