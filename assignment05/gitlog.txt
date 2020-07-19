@@ -1,0 +1,35 @@
+commit 9a0645f67edbf267843ae73f9ff162b24414de5d
+Author: Diana LIN <dlin12@linux.CS.McGill.CA>
+Date:   Tue Nov 21 16:31:54 2017 -0500
+
+    version6
+
+commit 1d6836409056d1b7fd9ac9808f3d6273ddf1fc0a
+Author: Diana LIN <dlin12@linux.CS.McGill.CA>
+Date:   Tue Nov 21 16:11:46 2017 -0500
+
+    version5
+
+commit c17df21db967573e6cba60c675cd560abf0aed17
+Author: Diana LIN <dlin12@linux.CS.McGill.CA>
+Date:   Tue Nov 21 15:36:41 2017 -0500
+
+    version4
+
+commit 390259d131e5a5d1f5585f486a877fd169eacd2d
+Author: Diana LIN <dlin12@linux.CS.McGill.CA>
+Date:   Tue Nov 21 11:43:06 2017 -0500
+
+    version3
+
+commit 7d1d2d85e7d71ad301d6125fa8765ffff69fdc13
+Author: Diana LIN <dlin12@linux.CS.McGill.CA>
+Date:   Tue Nov 21 11:41:27 2017 -0500
+
+    version2
+
+commit 39c060f38f0a5bfda6f6607964c6ca0e6dbbb36d
+Author: Diana LIN <dlin12@linux.CS.McGill.CA>
+Date:   Tue Nov 21 11:29:08 2017 -0500
+
+    version1
